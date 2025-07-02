@@ -1,6 +1,4 @@
-# 🇮🇹Ciao, mi chiamo Raffaele! 
-# 🇬🇧Hi, I'm Raffaele! 
-# 🇹🇼你好，我是羅斐爾！
+## 🇮🇹Ciao, mi chiamo Raffaele!🇮🇹 🇬🇧Hi, I'm Raffaele！🇬🇧 🇹🇼你好，我是羅斐爾！🇹🇼
 
 **Master’s graduate in Computer Science**  
 from National Taiwan University of Science and Technology  
