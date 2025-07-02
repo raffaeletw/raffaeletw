@@ -22,4 +22,5 @@ I have a strong programming background and a passion for practical applications.
 - **GitHub**: [github.com/raffaeletw](https://github.com/raffaeletw)  
 
 Fluent in English, Italian and intermediate in Chinese 
+
 Based in Rotorua, New Zealand.  
