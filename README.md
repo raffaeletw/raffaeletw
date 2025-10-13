@@ -23,4 +23,4 @@ I have a strong programming background and a passion for practical applications.
 
 Fluent in English, Italian and intermediate in Chinese 
 
-Based in Rotorua, New Zealand.  
+Based in New Zealand.  
